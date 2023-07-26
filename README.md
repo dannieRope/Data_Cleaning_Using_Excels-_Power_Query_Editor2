@@ -66,7 +66,7 @@ Well done. We have a clean data
 
 ![Final outcome](https://github.com/dannieRope/Data_Cleaning_Using_Excels-_Power_Query_Editor2/assets/132214828/ce0a3e8c-e91e-428b-992a-b3b22cc4f952)
 
-Take a look at the clean data [here]()
+Take a look at the clean data [here](https://github.com/dannieRope/Data_Cleaning_Using_Excels-_Power_Query_Editor2/blob/main/clean.xlsx)
 
 
 
