@@ -6,7 +6,7 @@ The purpose of this exercise is to enhance my proficiency in data cleaning by ut
 The dataset is downloaded from this [site](https://foresightbi.com.ng/microsoft-power-bi/dirty-data-samples-to-practice-on/)
 
 ## The Dataset
-Order ID and the Order Date are well structured in column1 and column2 respectively. However, the Segment and Ship Mode are on Rows instead of columns. They are placed on the first two rows, starting from column2, above the Order ID and Order Date. 
+Order ID and the Order Date are well structured in column1 and column2 respectively. However, the Segment and Ship Mode values are in  Rows instead of columns. They are placed in the first two rows, starting from column2, above the Order ID and Order Date. 
 
 Preview of the dataset
 ![The data](https://github.com/dannieRope/Data_Cleaning_Using_Excels-_Power_Query_Editor2/assets/132214828/89c62d71-543e-4413-a2c5-5a2fd62eba98)
@@ -30,7 +30,7 @@ The transpose feature in the transform tab helps in achieving this. However, bef
 
 ![merge](https://github.com/dannieRope/Data_Cleaning_Using_Excels-_Power_Query_Editor2/assets/132214828/7bb57b06-3a53-4858-9b30-66e2b62b5d73)
 
-Now transpose the entire dataset using the transpose feature in the transform tab. By transposing the data, the structure of the dataset changes. The rows become columns and columns become rows. In this case, we have our merged column as a row after transposing the dataset. 
+Now transpose the entire dataset using the transpose feature in the transform tab. By transposing the data, the structure of the dataset changes. The rows become columns, and columns become rows. In this case, we have our merged column as a row after transposing the dataset. 
 
 ![transpose outcome](https://github.com/dannieRope/Data_Cleaning_Using_Excels-_Power_Query_Editor2/assets/132214828/a4e9c4ae-e12a-4183-af5b-ec9eec7fe80f)
 
